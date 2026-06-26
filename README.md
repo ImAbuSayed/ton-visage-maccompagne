@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ton-visage-maccompagne/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Ton Visage M'accompagne](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-visage-maccompagne/) |
+| **Get License** | [Official Music Licensing for Ton Visage M'accompagne](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-visage-maccompagne/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ton visage m'accompagne sous les néons de Paris,
+> Dans le carré VIP, c'est toi que j'ai choisie.
+> Le groove qui s'emballe sur un rythme de folie,
+> Laisse-toi faire, mon amour, on s'envole dans la nuit.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
