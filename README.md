@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ton-visage-maccompagne/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Ton Visage M'accompagne](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-visage-maccompagne/) |
+| **Get License** | [Obtain a Music License for Ton Visage M'accompagne](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-visage-maccompagne/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3a1f40ae262f41b74a046ef0d7287efd61aaf7bc4780cd7cd3faf5eaf2a688fe` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
